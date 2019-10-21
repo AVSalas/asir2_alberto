@@ -8,6 +8,8 @@
     Alberto del Valle.
     <br/>
       <a href="http://192.168.0.201/asir2_alvaro/asir2.php">Alvaro</a>
+    <br/>
+      <a href="http://192.168.0.206/asir2.php">DaniH</a>
   </body>
 </html>
 
