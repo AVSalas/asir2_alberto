@@ -6,32 +6,32 @@
   <body>
     <p>Parametros</p>
     <?php
-    function sum($a,$b) {
+    function calculasum($a,$b) {
       $producto=($a+$b);
         return $producto;
     }
-    function res($a,$b) {
+    function calculares($a,$b) {
       $producto=($a-$b);
         return $producto;
     }
-    function mul($a,$b) {
+    function calculamul($a,$b) {
       $producto=($a*$b);
         return $producto;
     }
-    function div($a,$b) {
+    function calculadiv($a,$b) {
       $producto=($a/$b);
         return $producto;
     }
-    echo "Suma A + B = ".sum(100,100);
+    echo "Suma A + B = ".calculasum(100,100);
       echo '</br>';
       echo '</br>';
-    echo "Resta A - B = ".res(100,100);
+    echo "Resta A - B = ".calculares(100,100);
       echo '</br>';
       echo '</br>';
-    echo "Multiplica A x B = ".mul(100,100);
+    echo "Multiplica A x B = ".calculamul(100,100);
       echo '</br>';
       echo '</br>';
-    echo "Divide A / B = ".div(100,100);
+    echo "Divide A / B = ".calculadiv(100,100);
     ?>
   </body>
 </html>
