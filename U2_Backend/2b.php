@@ -22,7 +22,6 @@
           echo '</br>';
           echo '</br>';
         echo 'Divide A / B: '.$a.' / '.$b.' = '.($a/$b);
-          echo '</br>';
       }
       sumresmuldiv();
       ?>
