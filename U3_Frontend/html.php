@@ -4,15 +4,24 @@
     <title>HTML</title>
   </head>
   <body bgcolor="#c6ffb8">
-    <div id="dv">
+    <center>
+      <table width="90%" height="95%">
+        <tr>
+          <td>
+    <div>
       <h1>Tamaño vista de abuelo (H1)</h1>
       <h2>Venga, que sabes que se ve bien (H2)</h2>
       <h3>Un texto sorprendentemente normal (H3)</h3>
-      <h4>Igual necesitas acercarte (H4)</h4>
-      <h5>You'll need <i>culo botella</i> glasses (H5)</h5>
-      <h6>Las dioptrias bien, ¿no? (H6)</h6>
+        <h1>Tamaño vista de abuelo (H1)</h1>
+        <h2>Venga, que sabes que se ve bien (H2)</h2>
+        <h3>Un texto sorprendentemente normal (H3)</h3>
+          <h1>Tamaño vista de abuelo (H1)</h1>
+          <h2>Venga, que sabes que se ve bien (H2)</h2>
+          <h3>Un texto sorprendentemente normal (H3)</h3>
+          <h4>Igual necesitas acercarte (H4)</h4>
+          <h5>You'll need <i>culo botella</i> glasses (H5)</h5>
+          <h6>Las dioptrias bien, ¿no? (H6)</h6>
     <center>
-      <p>Imagen</p>
       <img src="pajaro.png" width="400" height="280"/>
       <br/>
       <p><b>A donde vas</b>, <u>manzanas traigo</u></p>.
@@ -35,18 +44,22 @@
             </tr>
         </table>
         <br/>
-        <font size="15" color="orange">
+        <font size="1" color="orange">
           Texto naranja.
         </font>
-        <font size="20" color="red">
+        <font size="2" color="red">
           Texto rojo.
         </font>
-        <font size="25"color="white">
+        <font size="3"color="white">
           Texto blanco.
         </font>
-        <font size="30" color="magenta">
+        <font size="4" color="magenta">
           Texto magenta.
         </font>
     </div>
+    </td>
+    </tr>
+  </table>
+</center>
   </body>
 </html>
